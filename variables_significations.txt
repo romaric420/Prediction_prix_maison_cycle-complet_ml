@@ -1,0 +1,21 @@
+OverallQual   → Note globale qualité des matériaux et finitions (1 à 10)
+GrLivArea     → Surface habitable au-dessus du sol (pieds²)
+TotalBsmtSF   → Surface totale du sous-sol (pieds²)
+1stFlrSF      → Surface du rez-de-chaussée (pieds²)
+YearBuilt     → Année de construction
+YearRemodAdd  → Année de la dernière rénovation
+GarageCars    → Capacité du garage (nb de voitures)
+GarageArea    → Surface du garage (pieds²)
+FullBath      → Nombre de salles de bain complètes
+TotRmsAbvGrd  → Nombre de pièces totales (hors sous-sol)
+KitchenQual   → Qualité de la cuisine (Ex/Gd/TA/Fa)
+Fireplaces    → Nombre de cheminées
+LotArea       → Surface totale du terrain (pieds²)
+Neighborhood  → Quartier de la propriété
+ExterQual     → Qualité des matériaux extérieurs (Ex/Gd/TA/Fa)
+PropertyType  → Type de bien (maison, appartement, etc.)
+DPE           → Diagnostic de Performance Énergétique
+HasPool       → Présence d'une piscine (0 = non, 1 = oui)
+AgentID       → Identifiant de l'agent immobilier
+SaleDate      → Date de la vente
+SalePrice     → 🎯 Prix de vente (variable cible à prédire)
